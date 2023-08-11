@@ -5,6 +5,6 @@ test("Can make a seed - Regional ER", () => {
     songs: 'anywhere',
     erOverworld: 'regionsFull',
     erRegionsExtra: true,
-    erRegionsExtra: true,
+    erRegionsShortcuts: true,
   });
 });
